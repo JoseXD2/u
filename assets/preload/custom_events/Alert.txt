@@ -1,0 +1,9 @@
+Value1 = Type of KB's attack    Value2 = Attack length
+0 = Normal Attack    1 = Double Attack
+2 = Kidding Attack    3 = Triple Attack
+4 = Cuad Attack
+Value2 is 1 for normal length, 2 for half length,
+3 for one-third length...
+and so on for any number greater than or equal to one.
+It also supports decimals.
+In this case, 0.5 is twice the length.

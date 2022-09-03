@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="GF_assets_404.png">
+<SubTexture name="GF FEAR 0000" x="0" y="0" width="698" height="640" frameX="0" frameY="0" frameWidth="699" frameHeight="640" />
+<SubTexture name="GF FEAR 0001" x="698" y="0" width="698" height="640" frameX="0" frameY="0" frameWidth="699" frameHeight="640" />
+<SubTexture name="GF FEAR 0002" x="1396" y="0" width="699" height="638" frameX="0" frameY="-2" frameWidth="699" frameHeight="640" />
+<SubTexture name="GF FEAR 0003" x="0" y="640" width="698" height="640" frameX="0" frameY="0" frameWidth="699" frameHeight="640" />
+</TextureAtlas>

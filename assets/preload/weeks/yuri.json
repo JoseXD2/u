@@ -1,0 +1,49 @@
+{
+	"storyName": "natsuki",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"songs": [
+		[
+			"deep-breaths",
+			"yuri",
+			[
+				166,
+				113,
+				113
+			]
+		],
+		[
+			"obsession",
+			"yuri",
+			[
+				166,
+				113,
+				113
+			]
+		],
+		[
+			"reconciliation",
+			"monika-real",
+			[
+				166,
+				113,
+				113
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"difficulties": "Hard",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"weekName": "natsuki"
+}

@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-43,
+				9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceRight",
+			"indices": [],
+			"name": "KB404_DanceRight"
+		},
+		{
+			"offsets": [
+				100,
+				141
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "KB404_Left"
+		},
+		{
+			"offsets": [
+				25,
+				-74
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "KB404_Down"
+		},
+		{
+			"offsets": [
+				6,
+				158
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "KB404_Up"
+		},
+		{
+			"offsets": [
+				-275,
+				-55
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "KB404_Right"
+		},
+		{
+			"offsets": [
+				-2,
+				0
+			],
+			"indices": [],
+			"fps": 16,
+			"anim": "danceLeft",
+			"loop": false,
+			"name": "KB404_DanceLeft"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/robot_404",
+	"position": [
+		20,
+		20
+	],
+	"healthicon": "kb",
+	"flip_x": false,
+	"healthbar_colors": [
+		128,
+		128,
+		128
+	],
+	"camera_position": [
+		-10,
+		10
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

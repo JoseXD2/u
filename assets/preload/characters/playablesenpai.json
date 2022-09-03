@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-17,
+				6
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Senpai Idle instance"
+		},
+		{
+			"offsets": [
+				7,
+				12
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "missleft"
+		},
+		{
+			"offsets": [
+				-10,
+				12
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "missdown"
+		},
+		{
+			"offsets": [
+				-12,
+				6
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "missright"
+		},
+		{
+			"offsets": [
+				-8,
+				41
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "missup"
+		},
+		{
+			"offsets": [
+				-1,
+				6
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "SENPAI LEFT NOTE instance"
+		},
+		{
+			"offsets": [
+				-6,
+				42
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "SENPAI UP NOTE instance"
+		},
+		{
+			"offsets": [
+				-10,
+				6
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "SENPAI DOWN NOTE instance"
+		},
+		{
+			"offsets": [
+				-14,
+				6
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "SENPAI RIGHT NOTE instance"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/playablesenpai",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "playablesenpai",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 6
+}

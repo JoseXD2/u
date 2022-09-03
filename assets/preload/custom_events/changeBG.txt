@@ -1,0 +1,4 @@
+Event for changing to blue screen
+On the first two beats, the screen becomes a
+disturbed background, and on the next beat,
+it becomes a blue screen.

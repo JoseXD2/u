@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="menu_qt.png">
+<SubTexture name="Final_Idle0000" x="0" y="0" width="376" height="456" frameX="-35" frameY="0" frameWidth="430" frameHeight="462" />
+</TextureAtlas>

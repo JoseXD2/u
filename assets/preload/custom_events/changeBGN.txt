@@ -1,0 +1,4 @@
+This is the event that returns the screen from blue
+to the original Termination background.
+After reverting, the TV animation will be forced
+to change to Attention.

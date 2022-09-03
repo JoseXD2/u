@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				104,
+				-45
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Sayo Idle nrw test"
+		},
+		{
+			"offsets": [
+				35,
+				-55
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Sayo Sing Note Left"
+		},
+		{
+			"offsets": [
+				7,
+				-53
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Sayo Sing Note Right"
+		},
+		{
+			"offsets": [
+				-4,
+				-94
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Sayo Sing Note Down"
+		},
+		{
+			"offsets": [
+				49,
+				-1
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Sayo Sing Note Up"
+		},
+		{
+			"offsets": [
+				80,
+				-43
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "Nwr",
+			"loop": false,
+			"name": "Sayo Nara animated"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Sayori",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "sayori",
+	"flip_x": false,
+	"healthbar_colors": [
+		100,
+		196,
+		255
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,10 @@
+{
+	"idle_anim": "Final_Idle",
+	"image": "menu_qt",
+	"position": [
+		190,
+		70
+	],
+	"scale": 0.75,
+	"confirm_anim": "M Dad Idle"
+}

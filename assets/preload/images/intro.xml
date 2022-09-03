@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="intro.png">
+	<!-- Created with Adobe Animate version 21.0.3.38773 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Symbol 30000" x="0" y="741" width="740" height="712" frameX="-181" frameY="48" frameWidth="858" frameHeight="710"/>
+	<SubTexture name="Symbol 30001" x="0" y="741" width="740" height="712" frameX="-181" frameY="48" frameWidth="858" frameHeight="710"/>
+	<SubTexture name="Symbol 30002" x="0" y="0" width="740" height="712" frameX="-181" frameY="48" frameWidth="858" frameHeight="710"/>
+	<SubTexture name="Symbol 30003" x="0" y="0" width="740" height="712" frameX="-181" frameY="48" frameWidth="858" frameHeight="710"/>
+	<SubTexture name="Symbol 30004" x="750" y="7" width="740" height="712" frameX="-181" frameY="48" frameWidth="858" frameHeight="710"/>
+	<SubTexture name="Symbol 30005" x="750" y="7" width="740" height="712" frameX="-181" frameY="48" frameWidth="858" frameHeight="710"/>
+	<SubTexture name="Symbol 30006" x="750" y="7" width="740" height="712" frameX="-181" frameY="48" frameWidth="858" frameHeight="710"/>
+	
+</TextureAtlas>

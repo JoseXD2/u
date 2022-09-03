@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="qtdialogue.png">
+<SubTexture name="qtdialogue 00000" x="498" y="0" width="334" height="299" frameX="-3" frameY="-51" frameWidth="350" frameHeight="350" />
+<SubTexture name="qtdialogue 10000" x="0" y="313" width="315" height="299" frameX="-19" frameY="-47" frameWidth="350" frameHeight="350" />
+<SubTexture name="qtdialogue 20000" x="0" y="0" width="249" height="313" frameX="-49" frameY="-37" frameWidth="350" frameHeight="350" />
+<SubTexture name="qtdialogue 30000" x="249" y="0" width="249" height="313" frameX="-49" frameY="-37" frameWidth="350" frameHeight="350" />
+</TextureAtlas>

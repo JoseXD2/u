@@ -1,0 +1,31 @@
+{
+	"storyName": "Expurgation",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "unfairness",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "clown",
+	"startUnlocked": true,
+	"songs": [
+		[
+			"Expurgation",
+			"extricky",
+			[
+				139,
+				0,
+				0
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekCharacters": [
+		"MenuTricky",
+		"bf",
+		"gf"
+	],
+	"weekName": "Clown"
+}

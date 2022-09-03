@@ -1,0 +1,155 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				58,
+				-61
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Yuri Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				47,
+				-82
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Yuri Sing Note Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				63,
+				-59
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Yuri Sing Note Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				105,
+				-69
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Yuri Sing Note Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				67,
+				-43
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Yuri Sing Note Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				62,
+				-36
+			],
+			"anim": "snif",
+			"fps": 24,
+			"name": "Yuri snif",
+			"indices": []
+		},
+		{
+			"offsets": [
+				58,
+				-61
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "uno",
+			"loop": false,
+			"name": "Yuri Idle"
+		},
+		{
+			"offsets": [
+				58,
+				-61
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "dos",
+			"loop": false,
+			"name": "Yuri Idle"
+		},
+		{
+			"offsets": [
+				58,
+				-61
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "tres",
+			"loop": false,
+			"name": "Yuri Idle"
+		},
+		{
+			"offsets": [
+				58,
+				-61
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "cuatro",
+			"loop": false,
+			"name": "Yuri Idle"
+		},
+		{
+			"offsets": [
+				58,
+				-61
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "cinco",
+			"loop": false,
+			"name": "Yuri Idle"
+		},
+		{
+			"offsets": [
+				58,
+				-61
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "seis",
+			"loop": false,
+			"name": "Yuri Idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/yuri",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "yuri",
+	"flip_x": false,
+	"healthbar_colors": [
+		155,
+		80,
+		175
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

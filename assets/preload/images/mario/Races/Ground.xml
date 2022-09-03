@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Ground.png"><SubTexture name="Ground Ground0000" x="0" y="0" width="722" height="411" frameX="0" frameY="-48" frameWidth="722" frameHeight="464" />
+<SubTexture name="Ground Ground0001" x="722" y="0" width="722" height="411" frameX="0" frameY="-52" frameWidth="722" frameHeight="464" />
+</TextureAtlas>

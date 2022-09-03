@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="">
+<SubTexture name="Boyfriend Dodge0000" x="0" y="0" width="444" height="410" frameX="-43" frameY="0" frameWidth="487" frameHeight="410"/>
+<SubTexture name="Boyfriend Dodge0001" x="444" y="0" width="444" height="410" frameX="-43" frameY="0" frameWidth="487" frameHeight="410"/>
+<SubTexture name="Boyfriend Dodge0002" x="888" y="0" width="444" height="410" frameX="-43" frameY="0" frameWidth="487" frameHeight="410"/>
+<SubTexture name="Boyfriend Dodge0003" x="1332" y="0" width="437" height="404" frameX="-4" frameY="-6" frameWidth="487" frameHeight="410"/>
+<SubTexture name="Boyfriend Dodge0004" x="1332" y="404" width="437" height="404" frameX="-4" frameY="-6" frameWidth="487" frameHeight="410"/>
+<SubTexture name="Boyfriend Dodge0005" x="0" y="808" width="437" height="404" frameX="-4" frameY="-6" frameWidth="487" frameHeight="410"/>
+<SubTexture name="Boyfriend Dodge0006" x="437" y="808" width="437" height="403" frameX="0" frameY="-7" frameWidth="487" frameHeight="410"/>
+<SubTexture name="Boyfriend Dodge0007" x="874" y="808" width="437" height="403" frameX="0" frameY="-7" frameWidth="487" frameHeight="410"/>
+<SubTexture name="Boyfriend Dodge0008" x="1311" y="808" width="437" height="403" frameX="0" frameY="-7" frameWidth="487" frameHeight="410"/>
+<SubTexture name="Boyfriend Dodge0009" x="437" y="808" width="437" height="403" frameX="0" frameY="-7" frameWidth="487" frameHeight="410"/>
+<SubTexture name="Boyfriend Dodge0010" x="874" y="808" width="437" height="403" frameX="0" frameY="-7" frameWidth="487" frameHeight="410"/>
+<SubTexture name="Boyfriend Dodge0011" x="1311" y="808" width="437" height="403" frameX="0" frameY="-7" frameWidth="487" frameHeight="410"/>
+<SubTexture name="Boyfriend Dodge0012" x="437" y="808" width="437" height="403" frameX="0" frameY="-7" frameWidth="487" frameHeight="410"/>
+<SubTexture name="Boyfriend Dodge0013" x="874" y="808" width="437" height="403" frameX="0" frameY="-7" frameWidth="487" frameHeight="410"/>
+<SubTexture name="Boyfriend Dodge0014" x="1311" y="808" width="437" height="403" frameX="0" frameY="-7" frameWidth="487" frameHeight="410"/>
+<SubTexture name="Boyfriend Dodge0015" x="437" y="808" width="437" height="403" frameX="0" frameY="-7" frameWidth="487" frameHeight="410"/>
+<SubTexture name="Boyfriend Dodge0016" x="874" y="808" width="437" height="403" frameX="0" frameY="-7" frameWidth="487" frameHeight="410"/>
+<SubTexture name="Boyfriend Dodge0017" x="1311" y="808" width="437" height="403" frameX="0" frameY="-7" frameWidth="487" frameHeight="410"/>
+<SubTexture name="Boyfriend Dodge0018" x="437" y="808" width="437" height="403" frameX="0" frameY="-7" frameWidth="487" frameHeight="410"/>
+<SubTexture name="Boyfriend Dodge0019" x="874" y="808" width="437" height="403" frameX="0" frameY="-7" frameWidth="487" frameHeight="410"/>
+<SubTexture name="Boyfriend Dodge0020" x="1311" y="808" width="437" height="403" frameX="0" frameY="-7" frameWidth="487" frameHeight="410"/>
+<SubTexture name="Boyfriend Dodge0021" x="437" y="808" width="437" height="403" frameX="0" frameY="-7" frameWidth="487" frameHeight="410"/>
+<SubTexture name="Boyfriend Dodge0022" x="874" y="808" width="437" height="403" frameX="0" frameY="-7" frameWidth="487" frameHeight="410"/>
+<SubTexture name="Boyfriend Dodge0023" x="1311" y="808" width="437" height="403" frameX="0" frameY="-7" frameWidth="487" frameHeight="410"/>
+<SubTexture name="Boyfriend Dodge0024" x="437" y="808" width="437" height="403" frameX="0" frameY="-7" frameWidth="487" frameHeight="410"/>
+<SubTexture name="Boyfriend NOTE DOWN0000" x="437" y="1211" width="374" height="357" frameX="-1" frameY="-5" frameWidth="378" frameHeight="392"/>
+<SubTexture name="Boyfriend NOTE DOWN0001" x="437" y="1211" width="374" height="357" frameX="-1" frameY="-5" frameWidth="378" frameHeight="392"/>
+<SubTexture name="Boyfriend NOTE DOWN0002" x="811" y="1211" width="373" height="362" frameX="0" frameY="0" frameWidth="375" frameHeight="362"/>
+<SubTexture name="Boyfriend NOTE DOWN0003" x="811" y="1211" width="373" height="362" frameX="0" frameY="0" frameWidth="375" frameHeight="362"/>
+<SubTexture name="Boyfriend NOTE LEFT0000" x="1769" y="407" width="383" height="406" frameX="0" frameY="0" frameWidth="385" frameHeight="406"/>
+<SubTexture name="Boyfriend NOTE LEFT0001" x="1769" y="407" width="383" height="406" frameX="0" frameY="0" frameWidth="385" frameHeight="406"/>
+<SubTexture name="Boyfriend NOTE LEFT0002" x="1748" y="813" width="374" height="404" frameX="-11" frameY="-2" frameWidth="385" frameHeight="406"/>
+<SubTexture name="Boyfriend NOTE LEFT0003" x="1748" y="813" width="374" height="404" frameX="-11" frameY="-2" frameWidth="385" frameHeight="406"/>
+<SubTexture name="Boyfriend NOTE RIGHT0000" x="1184" y="1211" width="408" height="405" frameX="-1" frameY="-2" frameWidth="409" frameHeight="407"/>
+<SubTexture name="Boyfriend NOTE RIGHT0001" x="1184" y="1211" width="408" height="405" frameX="-1" frameY="-2" frameWidth="409" frameHeight="407"/>
+<SubTexture name="Boyfriend NOTE RIGHT0002" x="1769" y="0" width="408" height="407" frameX="0" frameY="0" frameWidth="409" frameHeight="407"/>
+<SubTexture name="Boyfriend NOTE RIGHT0003" x="1769" y="0" width="408" height="407" frameX="0" frameY="0" frameWidth="409" frameHeight="407"/>
+<SubTexture name="Boyfriend NOTE UP0000" x="815" y="1610" width="369" height="446" frameX="-5" frameY="0" frameWidth="376" frameHeight="446"/>
+<SubTexture name="Boyfriend NOTE UP0001" x="815" y="1610" width="369" height="446" frameX="-5" frameY="0" frameWidth="376" frameHeight="446"/>
+<SubTexture name="Boyfriend NOTE UP0002" x="2177" y="0" width="376" height="441" frameX="0" frameY="-5" frameWidth="376" frameHeight="446"/>
+<SubTexture name="Boyfriend NOTE UP0003" x="2177" y="0" width="376" height="441" frameX="0" frameY="-5" frameWidth="376" frameHeight="446"/>
+<SubTexture name="Boyfriend idle dance0000" x="0" y="1217" width="406" height="392" frameX="-1" frameY="-20" frameWidth="411" frameHeight="412"/>
+<SubTexture name="Boyfriend idle dance0001" x="0" y="1217" width="406" height="392" frameX="-1" frameY="-20" frameWidth="411" frameHeight="412"/>
+<SubTexture name="Boyfriend idle dance0002" x="1592" y="1217" width="408" height="393" frameX="0" frameY="-19" frameWidth="411" frameHeight="412"/>
+<SubTexture name="Boyfriend idle dance0003" x="1592" y="1217" width="408" height="393" frameX="0" frameY="-19" frameWidth="411" frameHeight="412"/>
+<SubTexture name="Boyfriend idle dance0004" x="0" y="1610" width="405" height="398" frameX="-3" frameY="-14" frameWidth="411" frameHeight="412"/>
+<SubTexture name="Boyfriend idle dance0005" x="0" y="1610" width="405" height="398" frameX="-3" frameY="-14" frameWidth="411" frameHeight="412"/>
+<SubTexture name="Boyfriend idle dance0006" x="405" y="1610" width="410" height="411" frameX="-1" frameY="-1" frameWidth="411" frameHeight="412"/>
+<SubTexture name="Boyfriend idle dance0007" x="405" y="1610" width="410" height="411" frameX="-1" frameY="-1" frameWidth="411" frameHeight="412"/>
+<SubTexture name="Boyfriend idle dance0008" x="1592" y="1610" width="408" height="412" frameX="-2" frameY="0" frameWidth="411" frameHeight="412"/>
+<SubTexture name="Boyfriend idle dance0009" x="1592" y="1610" width="408" height="412" frameX="-2" frameY="0" frameWidth="411" frameHeight="412"/>
+</TextureAtlas>

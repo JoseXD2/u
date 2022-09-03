@@ -1,0 +1,40 @@
+{
+	"storyName": "natsuki",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"songs": [
+		[
+			"My-Sweets",
+			"natsuki",
+			[
+				166,
+				113,
+				113
+			]
+		],
+		[
+			"Baka",
+			"natsuki",
+			[
+				166,
+				113,
+				113
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"difficulties": "Hard",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"weekName": "natsuki"
+}

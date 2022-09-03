@@ -1,0 +1,31 @@
+{
+	"songs": [
+		[
+			"guns",
+			"agoti",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "Your New Week",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"difficulties": "Normal, Hard",
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

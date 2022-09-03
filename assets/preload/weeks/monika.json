@@ -1,0 +1,76 @@
+{
+	"songs": [
+		[
+			"High School Conflict",
+			"monika",
+			[
+				255,
+				153,
+				195
+			]
+		],
+		[
+			"Bara No Yume",
+			"duet",
+			[
+				255,
+				153,
+				195
+			]
+		],
+		[
+			"Your Demise",
+			"monika-angry",
+			[
+				255,
+				153,
+				195
+			]
+		],
+		[
+			"your-reality",
+			"monika",
+			[
+				255,
+				153,
+				195
+			]
+		],
+		[
+			"poems-n-thorns",
+			"duet",
+			[
+				255,
+				153,
+				195
+			]
+		],
+		[
+			"dual-demise",
+			"monika-angry2",
+			[
+				255,
+				153,
+				195
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "hard",
+	"weekCharacters": [
+		"monika",
+		"bf",
+		"gf"
+	],
+	"storyName": "Monika",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

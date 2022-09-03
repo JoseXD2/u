@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="attackv6.png"><SubTexture name="kb_attack_animation_fire0000" x="0" y="776" width="1395" height="218" frameX="-1991" frameY="-3" frameWidth="3387" frameHeight="671" />
+<SubTexture name="kb_attack_animation_fire0001" x="0" y="776" width="1395" height="218" frameX="-1991" frameY="-3" frameWidth="3387" frameHeight="671" />
+<SubTexture name="kb_attack_animation_fire0002" x="0" y="776" width="1395" height="218" frameX="-1991" frameY="-3" frameWidth="3387" frameHeight="671" />
+<SubTexture name="kb_attack_animation_fire0003" x="0" y="776" width="1395" height="218" frameX="-1991" frameY="-3" frameWidth="3387" frameHeight="671" />
+<SubTexture name="kb_attack_animation_fire0004" x="0" y="502" width="1272" height="274" frameX="-1042" frameY="-41" frameWidth="3387" frameHeight="671" />
+<SubTexture name="kb_attack_animation_fire0005" x="0" y="502" width="1272" height="274" frameX="-1042" frameY="-41" frameWidth="3387" frameHeight="671" />
+<SubTexture name="kb_attack_animation_fire0006" x="608" y="0" width="1138" height="326" frameX="-6" frameY="-84" frameWidth="3387" frameHeight="671" />
+<SubTexture name="kb_attack_animation_fire0007" x="608" y="0" width="1138" height="326" frameX="-6" frameY="-84" frameWidth="3387" frameHeight="671" />
+<SubTexture name="kb_attack_animation_prepare0000" x="0" y="0" width="608" height="502" frameX="-289" frameY="-21" frameWidth="914" frameHeight="748" />
+</TextureAtlas>

@@ -1,0 +1,44 @@
+{
+	"storyName": "Vs Agoti",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"screenplay",
+			"agoti",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"parasite",
+			"agoti",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"a.g.o.t.i",
+			"agoti-crazy",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"difficulties": "Normal,Hard,Expert,Insane",
+	"weekName": "Week Ass"
+}

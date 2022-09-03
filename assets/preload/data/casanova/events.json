@@ -1,0 +1,29 @@
+{
+	"song": {
+		"speed": 2.1,
+		"stage": "selever",
+		"player1": "bf",
+		"player2": "selever",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Toggle Trail",
+						"1",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 131,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Casanova"
+	}
+}

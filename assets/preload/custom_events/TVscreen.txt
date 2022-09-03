@@ -1,0 +1,9 @@
+value 1 = Screen type
+0 Off                          6 Attention
+1 On                           7 Watchout
+2 Instructions           8 Brutality
+3 GoodLuck               9 EyeLeft
+4 Error                     10 EyeRight
+5 BlueScreen            11 Drop
+Write the source code in script.lua for Attention only, using the function onBeatHit() to specify the Step range.
+See line 20 of "mods/data/censory-overload/script.lua" for a detailed example.

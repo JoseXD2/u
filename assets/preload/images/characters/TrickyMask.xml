@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="TrickyMask.png">
+	<!-- Created with Adobe Animate version 21.0.3.38773 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Idle0000" x="1494" y="0" width="605" height="617"/>
+	<SubTexture name="Idle0001" x="1494" y="0" width="605" height="617"/>
+	<SubTexture name="Idle0002" x="0" y="632" width="610" height="611"/>
+	<SubTexture name="Idle0003" x="0" y="632" width="610" height="611"/>
+	<SubTexture name="Idle0004" x="631" y="648" width="619" height="649"/>
+	<SubTexture name="Idle0005" x="631" y="648" width="619" height="649"/>
+	<SubTexture name="Idle0006" x="1278" y="641" width="619" height="649"/>
+	<SubTexture name="Idle0007" x="1278" y="641" width="619" height="649"/>
+	<SubTexture name="Idle0008" x="1278" y="641" width="619" height="649"/>
+	
+	<SubTexture name="Sing Down0000" x="0" y="0" width="747" height="598"/>
+	<SubTexture name="Sing Down0001" x="0" y="0" width="747" height="598"/>
+	<SubTexture name="Sing Down0002" x="756" y="0" width="737" height="609"/>
+	<SubTexture name="Sing Down0003" x="756" y="0" width="737" height="609"/>
+	<SubTexture name="Sing Down0004" x="756" y="0" width="737" height="609"/>
+	
+	<SubTexture name="Sing Left0000" x="0" y="1303" width="814" height="683"/>
+	<SubTexture name="Sing Left0001" x="0" y="1303" width="814" height="683"/>
+	<SubTexture name="Sing Left0002" x="820" y="1303" width="804" height="683"/>
+	<SubTexture name="Sing Left0003" x="820" y="1303" width="804" height="683"/>
+	<SubTexture name="Sing Left0004" x="820" y="1303" width="804" height="683"/>
+	
+	<SubTexture name="Sing Right0000" x="2118" y="24" width="941" height="580"/>
+	<SubTexture name="Sing Right0001" x="2118" y="24" width="941" height="580"/>
+	<SubTexture name="Sing Right0002" x="2110" y="618" width="884" height="580"/>
+	<SubTexture name="Sing Right0003" x="2110" y="618" width="884" height="580"/>
+	<SubTexture name="Sing Right0004" x="2110" y="618" width="884" height="580"/>
+	
+	<SubTexture name="Sing Up0000" x="1903" y="1205" width="595" height="681"/>
+	<SubTexture name="Sing Up0001" x="1903" y="1205" width="595" height="681"/>
+	<SubTexture name="Sing Up0002" x="2505" y="1207" width="595" height="666"/>
+	<SubTexture name="Sing Up0003" x="2505" y="1207" width="595" height="666"/>
+	<SubTexture name="Sing Up0004" x="2505" y="1207" width="595" height="666"/>
+	
+</TextureAtlas>

@@ -1,0 +1,63 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		120,
+		60
+	],
+	"scale": 1.4,
+	"animations": [
+		{
+			"loop_name": "qtdialogue 0",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "qtdialogue 0",
+			"anim": "1",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "qtdialogue 1",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "qtdialogue 1",
+			"anim": "2",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "qtdialogue 2",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "qtdialogue 2",
+			"anim": "3",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "qtdialogue 3",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "qtdialogue 3",
+			"anim": "4",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "qt"
+}

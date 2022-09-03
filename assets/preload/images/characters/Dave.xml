@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="DaveRemastered.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Down0000" x="5" y="5" width="349" height="585"/>
+	<SubTexture name="Down0001" x="364" y="5" width="349" height="585"/>
+	<SubTexture name="Left0000" x="723" y="5" width="402" height="586"/>
+	<SubTexture name="Left0001" x="1135" y="5" width="402" height="586"/>
+	<SubTexture name="Right0000" x="5" y="601" width="341" height="581"/>
+	<SubTexture name="Right0001" x="356" y="601" width="341" height="581"/>
+	<SubTexture name="Up0000" x="707" y="601" width="431" height="597"/>
+	<SubTexture name="Up0001" x="1148" y="601" width="431" height="597"/>
+	<SubTexture name="idleDance0000" x="1547" y="5" width="351" height="582"/>
+	<SubTexture name="idleDance0001" x="1589" y="597" width="351" height="582"/>
+	<SubTexture name="idleDance0002" x="1589" y="1189" width="351" height="582"/>
+	<SubTexture name="idleDance0003" x="1908" y="5" width="351" height="582"/>
+	<SubTexture name="idleDance0004" x="1908" y="5" width="351" height="582"/>
+	<SubTexture name="idleDance0005" x="1950" y="597" width="351" height="582"/>
+	<SubTexture name="idleDance0006" x="1950" y="597" width="351" height="582"/>
+</TextureAtlas>

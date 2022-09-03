@@ -1,0 +1,58 @@
+{
+	"storyName": "natsuki",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"songs": [
+		[
+			"crucify-yuri-mix",
+			"yuri",
+			[
+				166,
+				113,
+				113
+			]
+		],
+		[
+			"beathoven-natsuki-mix",
+			"natsuki",
+			[
+				166,
+				113,
+				113
+			]
+		],
+				[
+			"its-complicated",
+			"sayori",
+			[
+				166,
+				113,
+				113
+			]
+		],
+		[
+			"glitcher-monika-mix",
+			"monika-real",
+			[
+				166,
+				113,
+				113
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"difficulties": "Hard",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"weekName": "natsuki"
+}

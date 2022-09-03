@@ -1,0 +1,26 @@
+{
+	"storyName": "warp",
+	"hideFreeplay": false,
+	"weekBackground": "warpmap",
+	"weekBefore": "ExeMario",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"mariomap",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"power down",
+			"MX",
+			[
+				75,
+				0,
+				0
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"difficulties": "Normal",
+	"weekName": "Warp"
+}

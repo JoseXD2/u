@@ -1,0 +1,7 @@
+This event is used to animate the gas spray on the
+left and right sides of the screen in Censory-Overload.
+Value 1 = Length of the animation
+1 = Default Length
+(This is recommended whenmoving every two sections.)
+2 = 1/2 Length
+(This is recommended for moving sections.) 

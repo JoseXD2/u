@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Estatica papu.png"><SubTexture name="Estatica papu0000" x="0" y="0" width="690" height="381" frameX="-1" frameY="0" frameWidth="703" frameHeight="401" />
+<SubTexture name="Estatica papu0001" x="690" y="0" width="690" height="381" frameX="-1" frameY="0" frameWidth="703" frameHeight="401" />
+</TextureAtlas>

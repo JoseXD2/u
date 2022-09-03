@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="whatDoYouWantFromMe.png">
+	<!-- Created with Adobe Animate version 21.0.3.38773 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Cutscene 10000" x="0" y="6" width="434" height="442" frameX="0" frameY="-8" frameWidth="415" frameHeight="465"/>
+	<SubTexture name="Cutscene 10001" x="0" y="6" width="434" height="442"/>
+	<SubTexture name="Cutscene 10002" x="442" y="6" width="423" height="425" frameX="0" frameY="-8" frameWidth="415" frameHeight="465"/>
+	<SubTexture name="Cutscene 10003" x="442" y="6" width="423" height="425"/>
+	<SubTexture name="Cutscene 10004" x="446" y="441" width="431" height="424" frameX="0" frameY="-8" frameWidth="415" frameHeight="465"/>
+	<SubTexture name="Cutscene 10005" x="446" y="441" width="431" height="424" frameX="0" frameY="-8" frameWidth="415" frameHeight="465"/>
+	<SubTexture name="Cutscene 10006" x="894" y="38" width="423" height="600"/>
+	<SubTexture name="Cutscene 10007" x="894" y="38" width="423" height="600" frameX="0" frameY="-8" frameWidth="415" frameHeight="465"/>
+	
+	<SubTexture name="Pillar Beam Tricky0000" x="953" y="651" width="531" height="874" frameX="-199" frameY="-475" frameWidth="736" frameHeight="902"/>
+	<SubTexture name="Pillar Beam Tricky0001" x="953" y="651" width="531" height="874" frameX="-187" frameY="-482" frameWidth="736" frameHeight="902"/>
+	
+</TextureAtlas>

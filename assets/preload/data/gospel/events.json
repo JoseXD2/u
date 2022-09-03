@@ -1,0 +1,29 @@
+{
+	"song": {
+		"speed": 2.6,
+		"stage": "church3",
+		"player1": "bf",
+		"player2": "sarvente-lucifer",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Toggle Trail",
+						"1",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 141,
+		"arrowSkin": "NOTE_assets2",
+		"needsVoices": true,
+		"song": "Gospel"
+	}
+}
